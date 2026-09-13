@@ -2,11 +2,11 @@
 
 ### Finance | Quantitative Finance | Risk Analytics | Financial Data
 
-Bachelor of Science in Electrical Engineering with a strong interest in **Banking, Quantitative Finance, Financial Risk Management, Investment Analysis, and Financial Data Analytics**.
+B.Sc. in Electrical Engineering with an academic and professional focus on **Banking, Quantitative Finance, Financial Risk Management, Investment Analysis, and Financial Data Analytics**.
 
-I apply programming, statistics, mathematical methods, and data analysis to financial problems, with a particular interest in the intersection of **finance, quantitative methods, and technology**.
+I apply programming, statistics, mathematical methods, and data analysis to financial problems, with a particular interest in the intersection of **finance, quantitative methods, technology, and decision-making**.
 
-Currently preparing for MSc studies in **Banking & Finance**.
+Currently preparing for **MSc studies in Finance**.
 
 ---
 
@@ -14,8 +14,8 @@ Currently preparing for MSc studies in **Banking & Finance**.
 
 - Quantitative Finance
 - Banking & Financial Analytics
-- Credit Risk Management
 - Financial Risk Management
+- Credit Risk Management
 - Portfolio Optimization
 - Investment Analysis
 - Financial Modelling
@@ -28,9 +28,31 @@ Currently preparing for MSc studies in **Banking & Finance**.
 
 ## Selected Finance Projects
 
-My portfolio focuses on applying quantitative and computational methods to practical problems across banking and finance.
+My portfolio covers several complementary areas of banking, finance, quantitative analysis, and financial data.
 
-### 1. Bank Credit Risk Analytics
+### 1. Portfolio Optimization Research
+
+**Quantitative Finance | Portfolio Optimization | Risk Management | Python**
+
+Independent quantitative finance research examining whether portfolio optimization adds value under estimation risk, market regimes, portfolio turnover, transaction costs, and realistic implementation constraints.
+
+**Key areas:**
+
+- Out-of-sample portfolio evaluation
+- Portfolio optimization
+- Estimation risk
+- Asset allocation
+- Transaction costs
+- Portfolio turnover
+- Risk analysis
+- Robustness testing
+- Statistical inference
+
+[View Research Project](https://github.com/sahandmostafaei/portfolio-optimization-research)
+
+---
+
+### 2. Bank Credit Risk Analytics
 
 **Credit Risk | Statistical Analysis | Machine Learning | Python**
 
@@ -49,7 +71,7 @@ Analysis of consumer lending data with a focus on credit-risk assessment, explor
 
 ---
 
-### 2. Portfolio Optimization & Asset Allocation
+### 3. Portfolio Optimization & Asset Allocation
 
 **Quantitative Finance | Modern Portfolio Theory | Risk Management | Python**
 
@@ -70,11 +92,11 @@ A quantitative portfolio analysis project applying Modern Portfolio Theory to hi
 
 ---
 
-### 3. Bank Customer Churn Prediction
+### 4. Bank Customer Churn Prediction
 
 **Machine Learning | Banking Analytics | Predictive Modelling | Python**
 
-A banking-focused machine-learning project for analysing customer behaviour and predicting customer churn.
+A banking-focused machine-learning project analysing customer behaviour and predicting customer churn.
 
 **Key methods:**
 
@@ -90,11 +112,11 @@ A banking-focused machine-learning project for analysing customer behaviour and 
 
 ---
 
-### 4. Banking Financial Data Warehouse
+### 5. Banking Financial Data Warehouse
 
 **Financial Data Engineering | PostgreSQL | SQL | Banking Analytics**
 
-A banking-focused relational data warehouse designed to integrate customer, account, transaction, and credit-risk information for financial analysis and reporting.
+A banking-focused relational data warehouse integrating customer, account, transaction, and credit-risk information for financial analysis and reporting.
 
 **Key methods and technologies:**
 
@@ -113,7 +135,7 @@ A banking-focused relational data warehouse designed to integrate customer, acco
 
 ---
 
-### 5. Investment Banking Deal Analytics
+### 6. Investment Banking Deal Analytics
 
 **Investment Banking | M&A | Valuation | Financial Modelling**
 
@@ -148,11 +170,12 @@ An investment-banking-focused analytical project covering transaction analysis, 
 - SciPy
 - scikit-learn
 - yfinance
+- statsmodels
 
 ### Finance & Quantitative Methods
 
-- Financial Modelling
 - Quantitative Finance
+- Financial Modelling
 - Portfolio Optimization
 - Modern Portfolio Theory
 - Asset Allocation
@@ -162,11 +185,11 @@ An investment-banking-focused analytical project covering transaction analysis, 
 - Valuation
 - M&A Analytics
 - Financial Data Analysis
+- Statistical Analysis
 
 ### Data & Analytics
 
 - Exploratory Data Analysis
-- Statistical Analysis
 - Machine Learning
 - Predictive Modelling
 - Data Transformation
@@ -190,7 +213,7 @@ My engineering background provides a strong foundation in:
 - Analytical modelling
 - Systems thinking
 
-I am applying this quantitative and technical background to finance, with a focus on banking, risk management, quantitative finance, and financial analytics.
+I am applying this quantitative and technical background to finance, with a focus on **banking, risk management, quantitative finance, investment analysis, and financial analytics**.
 
 ---
 
@@ -205,20 +228,22 @@ I am currently developing my knowledge and portfolio in:
 - Financial modelling
 - Machine learning applications in finance
 - Financial data engineering
+- Empirical financial research
 
-I am also preparing applications for **MSc Banking & Finance programmes in Switzerland**.
+My current work combines **quantitative methods, programming, financial theory, statistical analysis, and applied financial research**.
 
 ---
 
 ## Portfolio Focus
 
-The projects in this portfolio are intentionally distributed across several complementary areas of finance:
+The projects in this portfolio are distributed across several complementary areas of finance:
 
 | Area | Portfolio Project |
 |---|---|
+| Quantitative Finance | Portfolio Optimization Research |
 | Credit Risk | Bank Credit Risk Analytics |
-| Quantitative Finance | Portfolio Optimization |
-| Banking Analytics | Customer Churn Prediction |
+| Portfolio Management | Portfolio Optimization & Asset Allocation |
+| Banking Analytics | Bank Customer Churn Prediction |
 | Financial Data Engineering | Banking Financial Data Warehouse |
 | Investment Banking | Investment Banking Deal Analytics |
 
@@ -226,18 +251,19 @@ Together, these projects demonstrate the application of **programming, statistic
 
 ---
 
-## Career Interests
+## Career & Academic Interests
 
-Interested in roles and academic areas related to:
+Interested in academic and professional areas related to:
 
 - Banking
-- Investment Banking
 - Quantitative Finance
+- Investment Banking
 - Financial Risk Management
-- Financial Analytics
 - Investment Analysis
+- Financial Analytics
 - Financial Data Analytics
 - FinTech
+- Financial Research
 
 ---
 
