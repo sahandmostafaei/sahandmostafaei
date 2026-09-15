@@ -236,7 +236,7 @@ GitHub
 
 I use this profile to document independent finance projects, research, analytical work, and technical implementations.
 
-GitHub: "github.com/sahandmostafaei" (https://github.com/sahandmostafaei)
+(https://github.com/sahandmostafaei)
 
 ---
 
