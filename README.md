@@ -1,147 +1,88 @@
-# Sahand Mostafaei
+Sahand Mostafaei
 
-### Finance | Quantitative Finance | Risk Analytics | Financial Data
+Finance | Investment Research | Banking | Financial Analysis
 
-B.Sc. in Electrical Engineering with an academic and professional focus on **Banking, Quantitative Finance, Financial Risk Management, Investment Analysis, and Financial Data Analytics**.
+B.Sc. in Electrical Engineering with a growing specialization in Finance, Investment Analysis, Banking, Financial Risk, and Financial Data Analytics.
 
-I apply programming, statistics, mathematical methods, and data analysis to financial problems, with a particular interest in the intersection of **finance, quantitative methods, technology, and decision-making**.
+I build finance-focused projects that combine financial theory, company and market analysis, quantitative methods, programming, and data. My interests span equity research, investment banking, portfolio management, banking analytics, risk management, and quantitative finance.
 
-Currently preparing for **MSc studies in Finance**.
+Currently preparing for MSc studies in Finance.
 
 ---
 
-## Research & Professional Interests
+Areas of Interest
 
-- Quantitative Finance
-- Banking & Financial Analytics
+- Equity Research & Investment Analysis
+- Investment Banking & M&A
+- Financial Modelling & Valuation
+- Portfolio Management & Asset Allocation
+- Banking & Credit Risk
 - Financial Risk Management
-- Credit Risk Management
-- Portfolio Optimization
-- Investment Analysis
-- Financial Modelling
-- Investment Banking
+- Financial Data Analytics
+- Quantitative Finance
 - Machine Learning in Finance
 - Financial Data Engineering
-- Business Intelligence
 
 ---
 
-## Selected Finance Projects
+Selected Finance Research & Projects
 
-My portfolio covers several complementary areas of banking, finance, quantitative analysis, and financial data.
+01 — Portfolio Optimization Research
 
-### 1. Portfolio Optimization Research
+Quantitative Finance · Portfolio Management · Risk Analysis · Python
 
-**Quantitative Finance | Portfolio Optimization | Risk Management | Python**
+Independent research examining whether portfolio optimization adds value after considering estimation risk, market regimes, portfolio constraints, turnover, and transaction costs.
 
-Independent quantitative finance research examining whether portfolio optimization adds value under estimation risk, market regimes, portfolio turnover, transaction costs, and realistic implementation constraints.
+The project focuses on rigorous out-of-sample evaluation of alternative portfolio construction methods and is supported by a documented research methodology, literature review, reproducibility pipeline, and robustness framework.
 
-**Key areas:**
+Key areas
 
-- Out-of-sample portfolio evaluation
-- Portfolio optimization
-- Estimation risk
+- Portfolio construction
 - Asset allocation
+- Estimation risk
+- Risk-adjusted performance
 - Transaction costs
 - Portfolio turnover
-- Risk analysis
+- Market regimes
 - Robustness testing
 - Statistical inference
 
-[View Research Project](https://github.com/sahandmostafaei/portfolio-optimization-research)
+"View Research Project" (https://github.com/sahandmostafaei/portfolio-optimization-research)
 
 ---
 
-### 2. Bank Credit Risk Analytics
+02 — Equity Research Platform
 
-**Credit Risk | Statistical Analysis | Machine Learning | Python**
+Equity Research · Investment Analysis · Financial Data · Valuation
 
-Analysis of consumer lending data with a focus on credit-risk assessment, exploratory data analysis, statistical modelling, and model evaluation.
+A finance-focused platform designed around the workflow of professional equity research, bringing together company analysis, financial information, valuation, market data, and investment-oriented analysis.
 
-**Key methods:**
+The project reflects my interest in moving beyond purely technical analysis toward fundamental investment research and structured financial decision-making.
 
-- Credit-risk analysis
-- Exploratory data analysis
-- Logistic regression
-- Classification
-- Model evaluation
-- Financial data analysis
+Key areas
 
-[View Project](https://github.com/sahandmostafaei/bank-credit-risk-analytics)
+- Company analysis
+- Equity research
+- Financial statement analysis
+- Valuation
+- Investment analysis
+- Market data
+- Financial metrics
+- Research workflow
 
----
-
-### 3. Portfolio Optimization & Asset Allocation
-
-**Quantitative Finance | Modern Portfolio Theory | Risk Management | Python**
-
-A quantitative portfolio analysis project applying Modern Portfolio Theory to historical market data.
-
-**Key methods:**
-
-- Modern Portfolio Theory
-- Portfolio optimization
-- Efficient frontier
-- Sharpe ratio
-- Sortino ratio
-- Monte Carlo simulation
-- Risk-return analysis
-- Asset allocation
-
-[View Project](https://github.com/sahandmostafaei/portfolio-optimization-python)
+"View Equity Research Platform" (https://github.com/sahandmostafaei/equity-research-platform)
 
 ---
 
-### 4. Bank Customer Churn Prediction
+03 — Investment Banking Deal Analytics
 
-**Machine Learning | Banking Analytics | Predictive Modelling | Python**
+Investment Banking · M&A · Valuation · Financial Modelling
 
-A banking-focused machine-learning project analysing customer behaviour and predicting customer churn.
+An investment-banking-focused project covering transaction analysis, valuation, deal metrics, and M&A-related financial analysis.
 
-**Key methods:**
+The project is designed to demonstrate practical understanding of how financial data can be structured and analysed in an investment-banking context.
 
-- Data preprocessing
-- Feature engineering
-- Classification
-- Model comparison
-- ROC-AUC evaluation
-- Explainability
-- Banking customer analytics
-
-[View Project](https://github.com/sahandmostafaei/bank-customer-churn-prediction)
-
----
-
-### 5. Banking Financial Data Warehouse
-
-**Financial Data Engineering | PostgreSQL | SQL | Banking Analytics**
-
-A banking-focused relational data warehouse integrating customer, account, transaction, and credit-risk information for financial analysis and reporting.
-
-**Key methods and technologies:**
-
-- PostgreSQL
-- SQL
-- Relational data modelling
-- Data transformation
-- Financial KPI analysis
-- Transaction analytics
-- Customer analytics
-- Credit-risk analytics
-- Python integration
-- Dashboard-oriented reporting
-
-[View Project](https://github.com/sahandmostafaei/banking-financial-data-warehouse)
-
----
-
-### 6. Investment Banking Deal Analytics
-
-**Investment Banking | M&A | Valuation | Financial Modelling**
-
-An investment-banking-focused analytical project covering transaction analysis, valuation, financial modelling, and M&A-related metrics.
-
-**Key areas:**
+Key areas
 
 - M&A analysis
 - Comparable-company analysis
@@ -151,126 +92,152 @@ An investment-banking-focused analytical project covering transaction analysis, 
 - Deal metrics
 - Investment-banking analytics
 
-[View Project](https://github.com/sahandmostafaei/investment-banking-deal-analytics)
+"View Project" (https://github.com/sahandmostafaei/investment-banking-deal-analytics)
 
 ---
 
-## Technical Skills
+04 — Bank Credit Risk Analytics
 
-### Programming
+Credit Risk · Banking · Financial Analytics · Machine Learning
+
+A banking analytics project focused on assessing consumer credit risk through exploratory analysis, statistical modelling, classification, and model evaluation.
+
+The project combines financial reasoning with data-driven methods to examine borrower characteristics and credit-risk outcomes.
+
+Key areas
+
+- Credit-risk analysis
+- Banking analytics
+- Exploratory data analysis
+- Logistic regression
+- Classification
+- Model evaluation
+- Financial data analysis
+
+"View Project" (https://github.com/sahandmostafaei/bank-credit-risk-analytics)
+
+---
+
+05 — Banking Financial Data Warehouse
+
+Banking · Financial Data Engineering · SQL · Analytics
+
+A banking-focused data warehouse designed to integrate customer, account, transaction, and credit-risk information into a structured analytical environment.
+
+The project demonstrates the intersection of finance, data architecture, SQL, and business intelligence required for financial analysis at scale.
+
+Key areas
+
+- Financial data modelling
+- PostgreSQL
+- SQL
+- Banking analytics
+- Transaction analysis
+- Customer analytics
+- Credit-risk data
+- Financial KPIs
+- Data transformation
+
+"View Project" (https://github.com/sahandmostafaei/banking-financial-data-warehouse)
+
+---
+
+Technical Skills
+
+Finance
+
+- Equity Research
+- Investment Analysis
+- Financial Modelling
+- Valuation
+- Investment Banking
+- M&A Analysis
+- Portfolio Management
+- Asset Allocation
+- Credit Risk
+- Financial Risk Management
+- Quantitative Finance
+
+Programming & Data
 
 - Python
 - SQL
-
-### Python & Data
-
+- PostgreSQL
 - pandas
 - NumPy
-- Matplotlib
 - SciPy
 - scikit-learn
-- yfinance
 - statsmodels
+- Matplotlib
+- yfinance
 
-### Finance & Quantitative Methods
+Analytical Methods
 
-- Quantitative Finance
+- Financial Statement Analysis
+- Statistical Analysis
 - Financial Modelling
 - Portfolio Optimization
-- Modern Portfolio Theory
-- Asset Allocation
-- Credit Risk Analytics
-- Financial Risk Management
-- Investment Analysis
-- Valuation
-- M&A Analytics
-- Financial Data Analysis
-- Statistical Analysis
-
-### Data & Analytics
-
-- Exploratory Data Analysis
+- Risk Analysis
 - Machine Learning
-- Predictive Modelling
+- Exploratory Data Analysis
 - Data Transformation
-- Relational Data Modelling
-- PostgreSQL
 - Financial Data Engineering
-- Business Intelligence
 
 ---
 
-## Academic Background
+Academic Background
 
-**Bachelor of Science in Electrical Engineering**
+B.Sc. in Electrical Engineering
 
 My engineering background provides a strong foundation in:
 
 - Mathematics
 - Statistics
-- Quantitative problem solving
 - Programming
 - Analytical modelling
+- Quantitative problem solving
 - Systems thinking
 
-I am applying this quantitative and technical background to finance, with a focus on **banking, risk management, quantitative finance, investment analysis, and financial analytics**.
+I am applying this technical foundation to finance, with particular interests in investment research, banking, financial analysis, risk management, and quantitative methods.
 
 ---
 
-## Current Focus
+Current Focus
 
-I am currently developing my knowledge and portfolio in:
+My current work is focused on developing a stronger foundation across investment research and financial analysis, while continuing to build technical capabilities that support finance-related decision making.
 
+Current areas include:
+
+- Equity research and company analysis
+- Financial modelling and valuation
+- Investment banking and M&A
+- Portfolio management
+- Banking and credit risk
+- Financial analytics
 - Quantitative finance
-- Banking analytics
-- Financial risk management
-- Investment analysis
-- Financial modelling
-- Machine learning applications in finance
-- Financial data engineering
-- Empirical financial research
-
-My current work combines **quantitative methods, programming, financial theory, statistical analysis, and applied financial research**.
+- Financial data and automation
 
 ---
 
-## Portfolio Focus
+Portfolio
 
-The projects in this portfolio are distributed across several complementary areas of finance:
+Area| Project
+Equity Research| Equity Research Platform
+Quantitative Finance| Portfolio Optimization Research
+Investment Banking| Investment Banking Deal Analytics
+Credit Risk| Bank Credit Risk Analytics
+Financial Data| Banking Financial Data Warehouse
 
-| Area | Portfolio Project |
-|---|---|
-| Quantitative Finance | Portfolio Optimization Research |
-| Credit Risk | Bank Credit Risk Analytics |
-| Portfolio Management | Portfolio Optimization & Asset Allocation |
-| Banking Analytics | Bank Customer Churn Prediction |
-| Financial Data Engineering | Banking Financial Data Warehouse |
-| Investment Banking | Investment Banking Deal Analytics |
-
-Together, these projects demonstrate the application of **programming, statistics, quantitative methods, machine learning, financial modelling, and data engineering to financial problems**.
+These projects represent different applications of finance, analysis, programming, and data rather than a single technical specialization.
 
 ---
 
-## Career & Academic Interests
+GitHub
 
-Interested in academic and professional areas related to:
+I use this profile to document independent finance projects, research, analytical work, and technical implementations.
 
-- Banking
-- Quantitative Finance
-- Investment Banking
-- Financial Risk Management
-- Investment Analysis
-- Financial Analytics
-- Financial Data Analytics
-- FinTech
-- Financial Research
+GitHub: "github.com/sahandmostafaei" (https://github.com/sahandmostafaei)
 
 ---
 
-## Contact
-
-GitHub: https://github.com/sahandmostafaei
-
----
-
-*Applying quantitative methods, programming, and analytical thinking to financial problems.*
+Finance, analysis, and technology applied to real financial problems.
