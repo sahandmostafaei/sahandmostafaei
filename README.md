@@ -1,189 +1,154 @@
 # Sahand Mostafaei
 
-## Finance • Investment Research • Quantitative Analysis
+## Finance · Investment Research · Quantitative Analysis
 
-I am an Electrical Engineering graduate transitioning into Finance, with a growing focus on investment research, financial analysis, portfolio management, banking, risk, and quantitative methods.
+Electrical Engineering → Finance
 
-My work combines financial theory with Python, statistical analysis, financial modelling, valuation, and data-driven research. I use GitHub to document independent projects that explore how quantitative and analytical methods can be applied to practical financial problems.
-
-I am currently preparing for MSc studies in Finance, with particular interests in investment research, asset management, financial risk, banking, and quantitative finance.
+*Building financial research with quantitative methods, empirical analysis, and reproducible code.*
 
 ---
 
-# Research & Finance
+# About Me
 
-My portfolio is built around a simple principle:
+I am an **Electrical Engineering graduate transitioning into Finance**, with a focus on:
 
-> **Use quantitative methods to investigate financial questions while keeping the economic interpretation at the centre of the analysis.**
-
-My projects cover several connected areas:
-
-- Investment and equity research
-- Financial modelling and valuation
-- Portfolio construction and optimization
-- Banking and credit risk
-- Financial data analytics
-- Statistical and empirical analysis
-- Financial data engineering
-- Machine learning applications in finance
-
-Rather than treating these as isolated technical exercises, I aim to develop projects around a complete analytical workflow:
-
-**Financial Question → Data → Methodology → Model → Statistical Analysis → Interpretation → Reproducible Output**
+- **Empirical Finance**
+- **Investment Research**
+- **Quantitative Finance**
+- **Portfolio Management**
+- **Risk Analysis**
+- **Financial Modelling**
+- **Financial Econometrics**
 
 ---
 
-# Selected Projects
+# Research Focus
 
-## 01 — Portfolio Optimization Research
+My current research interests include:
 
-### Quantitative Portfolio Construction & Empirical Analysis
-
-An independent quantitative-finance research project investigating the practical performance of portfolio optimization under realistic modelling considerations.
-
-The research examines portfolio construction, estimation risk, market regimes, portfolio constraints, turnover, transaction costs, and out-of-sample evaluation.
-
-The objective is not simply to generate an efficient portfolio, but to investigate how portfolio-construction results respond to different assumptions, estimation procedures, and market conditions.
-
-**Research Areas**
-
-`Portfolio Optimization` `Asset Allocation` `Estimation Risk`
-`Out-of-Sample Testing` `Market Regimes` `Transaction Costs`
-`Turnover` `Robustness Analysis` `Statistical Evaluation`
-
-**Repository:**  
-[Portfolio Optimization Research](https://github.com/sahandmostafaei/portfolio-optimization-research)
+**Portfolio Construction** · **Asset Allocation** · **Empirical Finance** · **Financial Econometrics** · **Risk Management** · **Equity Research** · **Banking & Credit Risk**
 
 ---
 
-## 02 — Equity Research Platform
+# Featured Research
 
-### Fundamental Analysis, Forecasting & Valuation
+## 01 · Portfolio Optimization Research
 
-A structured equity-research project designed around the analytical process used to evaluate a public company.
+### Does Portfolio Optimization Add Value?
 
-The platform integrates financial statement analysis, historical performance, operating assumptions, forecasting, DCF valuation, comparable-company analysis, WACC estimation, and scenario analysis.
+An independent quantitative-finance research project investigating portfolio optimization under realistic implementation conditions.
 
-The emphasis is on connecting accounting and financial information to an explicit valuation framework rather than treating valuation as a standalone calculation.
+The study examines:
 
-**Research Areas**
+- Estimation risk
+- Out-of-sample performance
+- Market regimes
+- Portfolio turnover
+- Transaction costs
+- Covariance estimation
+- Risk aversion
+- Rebalancing frequency
+- Tail risk
+- Statistical inference
 
-`Equity Research` `Financial Statement Analysis` `DCF`
-`Financial Forecasting` `WACC` `Comparable Companies`
-`Scenario Analysis` `Valuation`
+**Methods:**
 
-**Repository:**  
-[Equity Research Platform](https://github.com/sahandmostafaei/equity-research-platform)
+`Portfolio Optimization` `Modern Portfolio Theory` `Out-of-Sample Testing` `Ledoit-Wolf` `Bootstrap Inference`
 
----
-
-## 03 — Investment Banking Deal Analytics
-
-### M&A, Transaction Analysis & Financial Modelling
-
-An analytical project focused on the financial mechanics of M&A transactions and investment-banking analysis.
-
-The project explores valuation methodologies, transaction assumptions, financial forecasting, precedent transactions, trading comparables, and accretion/dilution analysis.
-
-The objective is to understand how valuation and operating assumptions translate into transaction-level financial outcomes.
-
-**Research Areas**
-
-`M&A` `Financial Modelling` `DCF`
-`Trading Comparables` `Precedent Transactions`
-`Accretion / Dilution` `Sensitivity Analysis`
-
-**Repository:**  
-[Investment Banking Deal Analytics](https://github.com/sahandmostafaei/investment-banking-deal-analytics)
+[→ View Research Repository](https://github.com/sahandmostafaei/portfolio-optimization-research)
 
 ---
 
-## 04 — Portfolio Optimization Python
+# Finance Projects
 
-### Quantitative Portfolio Analysis & Risk Modelling
+## 02 · Equity Research Platform
 
-A quantitative portfolio-analysis project implementing Modern Portfolio Theory and related portfolio-risk techniques in Python.
+Fundamental equity-research framework covering:
 
-The project applies optimization methods, risk metrics, Monte Carlo simulation, and quantitative analysis to examine portfolio construction and risk characteristics.
+`Financial Statements` · `Forecasting` · `DCF` · `WACC` · `Comparable Companies` · `Scenario Analysis` · `Valuation`
 
-It provides a computational foundation for understanding how portfolio allocation changes under different risk and return assumptions.
-
-**Research Areas**
-
-`Modern Portfolio Theory` `Portfolio Optimization`
-`Risk Metrics` `Monte Carlo Simulation`
-`Asset Allocation` `Python` `Quantitative Finance`
-
-**Repository:**  
-[Portfolio Optimization Python](https://github.com/sahandmostafaei/portfolio-optimization-python)
+[→ View Repository](https://github.com/sahandmostafaei/equity-research-platform)
 
 ---
 
-## 05 — Bank Credit Risk Analytics
+## 03 · Investment Banking Deal Analytics
 
-### Credit Risk, Statistical Modelling & Machine Learning
+Analytical framework covering:
 
-A banking analytics project focused on analysing borrower characteristics and their relationship with credit outcomes.
+`M&A` · `Precedent Transactions` · `Trading Comparables` · `Financial Modelling` · `Accretion / Dilution` · `Sensitivity Analysis`
 
-The project combines financial reasoning with statistical modelling and machine-learning techniques to examine credit-risk classification, borrower segmentation, probability-of-default concepts, and model evaluation.
-
-The objective is to connect borrower-level financial information with quantitative approaches to credit-risk assessment.
-
-**Research Areas**
-
-`Credit Risk` `Probability of Default`
-`Logistic Regression` `Classification`
-`Risk Segmentation` `Machine Learning`
-`Statistical Modelling` `Model Evaluation`
-
-**Repository:**  
-[Bank Credit Risk Analytics](https://github.com/sahandmostafaei/bank-credit-risk-analytics)
+[→ View Repository](https://github.com/sahandmostafaei/investment-banking-deal-analytics)
 
 ---
 
-## 06 — Banking Financial Data Warehouse
+## 04 · Bank Credit Risk Analytics
 
-### Banking Data Engineering & Financial Analytics
+Quantitative banking project focused on credit-risk analysis and statistical modelling.
 
-A banking data-engineering project focused on structuring financial information for analytical use.
+`Credit Risk` · `Probability of Default` · `Logistic Regression` · `Classification` · `Machine Learning` · `Model Evaluation`
 
-The project uses SQL and PostgreSQL to organise banking data across areas such as customers, accounts, transactions, and loans, creating a structured environment for financial and operational analysis.
-
-The project combines financial-domain knowledge with relational data modelling, database design, data-quality practices, and analytical workflows.
-
-**Research Areas**
-
-`SQL` `PostgreSQL` `Data Modelling`
-`Banking Analytics` `Financial Data`
-`Data Quality` `Transaction Analysis`
-`Customer Analytics` `Loan Analytics`
-
-**Repository:**  
-[Banking Financial Data Warehouse](https://github.com/sahandmostafaei/banking-financial-data-warehouse)
+[→ View Repository](https://github.com/sahandmostafaei/bank-credit-risk-analytics)
 
 ---
 
-# Quantitative & Technical Toolkit
+# Quantitative & Data Projects
+
+## 05 · Portfolio Optimization Python
+
+Implementation of portfolio optimization and quantitative risk analysis using Python.
+
+`Modern Portfolio Theory` · `Optimization` · `Risk Metrics` · `Monte Carlo Simulation`
+
+[→ View Repository](https://github.com/sahandmostafaei/portfolio-optimization-python)
+
+---
+
+## 06 · Banking Financial Data Warehouse
+
+Banking data-engineering project using relational database design and analytical SQL.
+
+`PostgreSQL` · `SQL` · `Data Modelling` · `Banking Analytics` · `Financial Data`
+
+[→ View Repository](https://github.com/sahandmostafaei/banking-financial-data-warehouse)
+
+---
+
+# Technical Toolkit
 
 ## Finance
 
-`Equity Research` `Financial Analysis` `Financial Modelling`
-`Valuation` `DCF` `Comparable Companies`
-`Investment Banking` `M&A` `Portfolio Management`
-`Asset Allocation` `Credit Risk`
+`Equity Research` `Financial Analysis` `Financial Modelling` `DCF` `Valuation` `Portfolio Management` `Credit Risk` `M&A`
 
 ## Quantitative Methods
 
-`Statistical Analysis` `Portfolio Optimization`
-`Risk Analysis` `Forecasting` `Classification`
-`Machine Learning` `Scenario Analysis`
-`Empirical Research`
+`Statistics` `Optimization` `Risk Analysis` `Forecasting` `Empirical Research` `Machine Learning`
 
 ## Programming & Data
 
-`Python` `SQL` `PostgreSQL` `pandas` `NumPy`
-`SciPy` `scikit-learn` `statsmodels` `Matplotlib`
-`Git` `GitHub` `GitHub Actions`
+`Python` `SQL` `PostgreSQL` `pandas` `NumPy` `SciPy` `scikit-learn` `statsmodels` `Matplotlib`
+
+## Research & Engineering
+
+`Git` `GitHub Actions` `Reproducible Research` `Data Analysis` `Statistical Modelling`
+
+---
+
+# Research Methodology
+
+For larger research projects, I follow:
+
+**Research Question → Literature → Data → Methodology → Empirical Analysis → Robustness → Interpretation → Reproducible Results**
+
+I emphasize:
+
+- **Explicit assumptions**
+- **Transparent methodology**
+- **Documented data sources**
+- **Out-of-sample evaluation**
+- **Statistical inference**
+- **Robustness analysis**
+- **Reproducibility**
+- **Clear separation of evidence and interpretation**
 
 ---
 
@@ -191,75 +156,39 @@ The project combines financial-domain knowledge with relational data modelling, 
 
 ## B.Sc. Electrical Engineering
 
-My engineering education provides a quantitative foundation in:
+My engineering background provides a quantitative foundation in:
 
-- Mathematics
-- Probability and statistics
-- Programming
-- Quantitative modelling
-- Systems analysis
-- Data analysis
-- Structured problem solving
+`Mathematics` · `Probability & Statistics` · `Programming` · `Modelling` · `Systems Analysis` · `Data Analysis`
 
-I am applying this technical foundation to financial problems, particularly where mathematical modelling, statistical reasoning, programming, and financial interpretation intersect.
-
-This transition from engineering into finance is reflected throughout my portfolio, with projects spanning valuation, investment research, portfolio construction, banking, credit risk, and financial data analysis.
+I am applying this technical foundation to financial research, particularly where **mathematical modelling, statistical reasoning, programming, and financial interpretation** intersect.
 
 ---
 
-# Current Research Direction
+# MSc Finance Direction
 
-My current development is centred on building a stronger foundation in financial research and quantitative finance.
+I am preparing for **MSc studies in Finance**, with particular interests in:
 
-Areas of particular interest include:
+**Empirical Finance · Quantitative Investment · Asset Management · Portfolio Management · Financial Risk · Banking · Financial Econometrics**
 
-- Asset pricing and portfolio management
-- Portfolio optimization and risk
-- Equity research and valuation
-- Financial econometrics
-- Banking and credit risk
-- Empirical finance
-- Financial modelling
-- Quantitative methods in investment analysis
+My objective is to develop stronger expertise at the intersection of:
 
-I am particularly interested in research that connects financial theory with empirical evidence rather than relying solely on theoretical or computational results.
+**Finance × Quantitative Methods × Empirical Research**
 
 ---
 
-# Research Approach
+# Research Philosophy
 
-For larger projects, I structure the analytical process around:
+> **A financial model is useful only when its assumptions, evidence, limitations, and economic interpretation can be examined.**
 
-**Research Question**  
-↓  
-**Literature / Financial Framework**  
-↓  
-**Data Collection**  
-↓  
-**Data Cleaning & Validation**  
-↓  
-**Methodology**  
-↓  
-**Statistical / Financial Modelling**  
-↓  
-**Robustness & Sensitivity Analysis**  
-↓  
-**Interpretation**  
-↓  
-**Reproducible Results**
+I aim to build projects that go beyond simply implementing a model by asking:
 
-### Research Principles
+**What is the financial question?**
 
-- Explicit assumptions
-- Documented data sources
-- Transparent methodology
-- Reproducible analysis
-- Appropriate statistical evaluation
-- Sensitivity and robustness analysis
-- Clear separation of results and interpretation
-- Explicit discussion of limitations
+**What does the evidence show?**
 
-The objective is to produce work that can be examined, reproduced, and improved rather than simply demonstrating that a particular model can be implemented.
+**How robust is the result?**
+
+**Does the result have economic meaning?**
 
 ---
 
@@ -267,43 +196,13 @@ The objective is to produce work that can be examined, reproduced, and improved 
 
 | Area | Project |
 |---|---|
-| Quantitative Finance Research | [Portfolio Optimization Research](https://github.com/sahandmostafaei/portfolio-optimization-research) |
-| Equity Research | [Equity Research Platform](https://github.com/sahandmostafaei/equity-research-platform) |
-| Investment Banking | [Investment Banking Deal Analytics](https://github.com/sahandmostafaei/investment-banking-deal-analytics) |
-| Portfolio Analytics | [Portfolio Optimization Python](https://github.com/sahandmostafaei/portfolio-optimization-python) |
-| Credit Risk | [Bank Credit Risk Analytics](https://github.com/sahandmostafaei/bank-credit-risk-analytics) |
-| Financial Data Engineering | [Banking Financial Data Warehouse](https://github.com/sahandmostafaei/banking-financial-data-warehouse) |
+| **Quantitative Finance Research** | [Portfolio Optimization Research](https://github.com/sahandmostafaei/portfolio-optimization-research) |
+| **Equity Research** | [Equity Research Platform](https://github.com/sahandmostafaei/equity-research-platform) |
+| **Investment Banking** | [Investment Banking Deal Analytics](https://github.com/sahandmostafaei/investment-banking-deal-analytics) |
+| **Credit Risk** | [Bank Credit Risk Analytics](https://github.com/sahandmostafaei/bank-credit-risk-analytics) |
+| **Portfolio Analytics** | [Portfolio Optimization Python](https://github.com/sahandmostafaei/portfolio-optimization-python) |
+| **Financial Data Engineering** | [Banking Financial Data Warehouse](https://github.com/sahandmostafaei/banking-financial-data-warehouse) |
 
 ---
 
-# Finance × Data × Research
-
-## Finance
-
-Financial analysis, valuation, investment research, portfolio management, banking, and risk.
-
-## Quantitative Methods
-
-Statistics, optimization, econometrics, modelling, forecasting, and empirical analysis.
-
-## Technology
-
-Python, SQL, PostgreSQL, data engineering, automation, and reproducible analytical workflows.
-
-The common objective is to use quantitative and computational methods to investigate meaningful financial questions while maintaining clear financial interpretation.
-
----
-
-# GitHub
-
-This profile documents my development from an engineering background toward finance, investment research, and quantitative analysis.
-
-The repositories contain independent work spanning:
-
-**Investment Research · Valuation · Portfolio Management · Banking · Credit Risk · Financial Analytics · Quantitative Finance**
-
----
-
-# Finance × Analysis × Technology
-
-*Building financial research with quantitative methods, transparent analysis, and reproducible code.*
+**Finance · Quantitative Methods · Empirical Research**
