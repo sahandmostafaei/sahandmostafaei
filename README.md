@@ -1,138 +1,77 @@
 # Sahand Mostafaei
 
-## Empirical Finance · Quantitative Research · Investment Analysis
+## Finance · Investment Analysis · Financial Modelling
 
-**Electrical Engineering → Finance**
+Investment-focused finance work spanning **valuation, equity research, transaction analysis, portfolio management, and risk**.
 
-I build finance projects at the intersection of **quantitative methods, empirical research, financial modelling, and investment analysis**.
-
-My primary interests are **Empirical Finance, Quantitative Finance, Portfolio Management, Financial Econometrics, Risk Management, and Investment Research**.
+Background in **Electrical Engineering**, with a technical foundation in mathematics, statistics, programming, and financial modelling.
 
 ---
 
-# Featured Research
+# Selected Projects
 
-## Portfolio Optimization Research
+## Equity Research & Valuation
 
-**Does Portfolio Optimization Add Value?**
+### Equity Research Platform
 
-An independent quantitative-finance research project investigating whether portfolio optimization creates value under realistic implementation constraints.
+Integrated financial analysis and valuation framework covering financial statements, forecasting, DCF valuation, comparable companies, and scenario analysis.
 
-The research focuses on:
-
-- Estimation risk and covariance uncertainty
-- Out-of-sample portfolio performance
-- Market regimes
-- Transaction costs and portfolio turnover
-- Rebalancing frequency
-- Tail risk
-- Robustness and statistical inference
-
-**Methods:**
-
-`Portfolio Optimization` `Modern Portfolio Theory` `Out-of-Sample Testing` `Ledoit-Wolf` `Bootstrap Inference`
-
-→ [View Research Repository](https://github.com/sahandmostafaei/portfolio-optimization-research)
+`Financial Analysis` `DCF` `WACC` `Comparable Companies` `Scenario Analysis`
 
 ---
 
-# Selected Finance Projects
+## Investment Banking & M&A
 
-## Equity Research Platform
+### Investment Banking Deal Analytics
 
-A reproducible framework for fundamental equity analysis, integrating financial-statement analysis, forecasting, valuation, and scenario analysis.
+Transaction-oriented financial modelling covering DCF valuation, trading comparables, precedent transactions, M&A analysis, and transaction sensitivities.
 
-`Financial Statements` · `Forecasting` · `DCF` · `WACC` · `Comparable Companies` · `Scenario Analysis` · `Valuation`
-
-→ [View Repository](https://github.com/sahandmostafaei/equity-research-platform)
-
-## Investment Banking Deal Analytics
-
-A financial-modelling framework for analysing M&A transactions and valuation relationships across comparable companies and precedent deals.
-
-`DCF` · `Trading Comparables` · `Precedent Transactions` · `M&A` · `Accretion / Dilution` · `Sensitivity Analysis`
-
-→ [View Repository](https://github.com/sahandmostafaei/investment-banking-deal-analytics)
-
-## Bank Credit Risk Analytics
-
-A quantitative banking project focused on credit-risk modelling, probability of default, classification, and statistical model evaluation.
-
-`Probability of Default` · `Logistic Regression` · `Classification` · `Machine Learning` · `Model Evaluation`
-
-→ [View Repository](https://github.com/sahandmostafaei/bank-credit-risk-analytics)
+`DCF` `Trading Comparables` `Precedent Transactions` `M&A`
 
 ---
 
-# Additional Work
+## Portfolio Management
 
-My broader portfolio includes projects in **financial data engineering, portfolio analytics, and machine-learning applications in banking**.
+### Portfolio Optimization Research
 
-- [Portfolio Optimization Python](https://github.com/sahandmostafaei/portfolio-optimization-python)
-- [Banking Financial Data Warehouse](https://github.com/sahandmostafaei/banking-financial-data-warehouse)
-- [Bank Customer Churn Prediction](https://github.com/sahandmostafaei/bank-customer-churn-prediction)
+Out-of-sample analysis of portfolio construction and risk, incorporating estimation uncertainty, portfolio constraints, turnover, transaction costs, market regimes, and statistical inference.
 
----
-
-# Quantitative Toolkit
-
-## Finance
-
-`Equity Research` `Financial Modelling` `DCF` `Valuation` `Portfolio Management` `Credit Risk` `M&A`
-
-## Quantitative Methods
-
-`Statistics` `Optimization` `Risk Analysis` `Forecasting` `Financial Econometrics` `Machine Learning`
-
-## Programming & Data
-
-`Python` `SQL` `PostgreSQL` `pandas` `NumPy` `SciPy` `scikit-learn` `statsmodels` `Matplotlib`
-
-## Research & Engineering
-
-`Git` `GitHub Actions` `Reproducible Research` `Data Analysis` `Statistical Modelling`
+`Portfolio Construction` `Portfolio Analysis` `Risk Analysis`
 
 ---
 
-# Academic Background
+## Banking Risk & Analytics
 
-## B.Sc. Electrical Engineering
+### Bank Credit Risk Analytics
 
-My engineering background provides a quantitative foundation in **mathematics, probability, statistics, programming, modelling, and systems analysis**.
+Credit-risk analysis using loan data, with a logistic-regression baseline for default classification.
 
-I apply this foundation to financial research where:
-
-**Mathematics × Statistics × Programming × Finance**
-
-intersect.
+`Credit Risk` `Probability of Default` `Logistic Regression` `Classification`
 
 ---
 
-# MSc Finance Direction
+# Supporting Projects
 
-I am preparing for **MSc studies in Finance**, with particular interests in:
+## Financial Data Engineering
 
-**Empirical Finance · Quantitative Finance · Quantitative Investment · Asset Management · Portfolio Management · Financial Risk · Financial Econometrics**
+**Banking Financial Data Warehouse** — relational modelling, SQL workflows, and structured banking data.
 
-My goal is to develop deeper expertise at the intersection of:
+## Portfolio Analytics
 
-> **Finance × Quantitative Methods × Empirical Research**
+**Portfolio Optimization Python** — portfolio construction, optimization, and performance analysis in Python.
+
+## Banking Analytics
+
+**Bank Customer Churn Prediction** — customer churn classification using banking data.
 
 ---
 
-# Research Approach
+# Capabilities
 
-For larger projects, I follow:
+## Investment & Finance
 
-**Research Question → Literature → Data → Methodology → Empirical Analysis → Robustness → Interpretation → Reproducibility**
+`Investment Analysis` `Financial Modelling` `Valuation` `DCF` `Portfolio Management` `M&A` `Risk Analysis`
 
-I emphasize:
+## Quantitative & Data
 
-- Explicit assumptions
-- Transparent methodology
-- Documented data sources
-- Out-of-sample evaluation
-- Statistical inference
-- Robustness analysis
-- Reproducible results
-- Clear distinction between evidence and interpretation
+`Statistics` `Optimization` `Forecasting` `Python` `SQL` `PostgreSQL` `pandas` `NumPy` `scikit-learn` `statsmodels`
