@@ -75,3 +75,9 @@ Credit-risk analysis using loan data, with a logistic-regression baseline for de
 ## Quantitative & Data
 
 `Statistics` `Optimization` `Forecasting` `Python` `SQL` `PostgreSQL` `pandas` `NumPy` `scikit-learn` `statsmodels`
+
+---
+
+# Contact
+
+sahandmostafaei8@gmail.com
