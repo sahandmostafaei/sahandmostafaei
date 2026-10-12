@@ -1,3 +1,4 @@
+
 # Sahand Mostafaei
 
 ## Finance · Investment Analysis · Financial Modelling
@@ -18,6 +19,8 @@ Integrated financial analysis and valuation framework covering financial stateme
 
 `Financial Analysis` `DCF` `WACC` `Comparable Companies` `Scenario Analysis`
 
+🔗 [View Repository](https://github.com/sahandmostafaei/equity-research-platform)
+
 ---
 
 ## Investment Banking & M&A
@@ -27,6 +30,8 @@ Integrated financial analysis and valuation framework covering financial stateme
 Transaction-oriented financial modelling covering DCF valuation, trading comparables, precedent transactions, M&A analysis, and transaction sensitivities.
 
 `DCF` `Trading Comparables` `Precedent Transactions` `M&A`
+
+🔗 [View Repository](https://github.com/sahandmostafaei/investment-banking-deal-analytics)
 
 ---
 
@@ -38,6 +43,8 @@ Out-of-sample analysis of portfolio construction and risk, incorporating estimat
 
 `Portfolio Construction` `Portfolio Analysis` `Risk Analysis`
 
+🔗 [View Repository](https://github.com/sahandmostafaei/portfolio-optimization-research)
+
 ---
 
 ## Banking Risk & Analytics
@@ -48,6 +55,8 @@ Credit-risk analysis using loan data, with a logistic-regression baseline for de
 
 `Credit Risk` `Probability of Default` `Logistic Regression` `Classification`
 
+🔗 [View Repository](https://github.com/sahandmostafaei/bank-credit-risk-analytics)
+
 ---
 
 # Supporting Projects
@@ -56,13 +65,19 @@ Credit-risk analysis using loan data, with a logistic-regression baseline for de
 
 **Banking Financial Data Warehouse** — relational modelling, SQL workflows, and structured banking data.
 
+🔗 [View Repository](https://github.com/sahandmostafaei/banking-financial-data-warehouse)
+
 ## Portfolio Analytics
 
 **Portfolio Optimization Python** — portfolio construction, optimization, and performance analysis in Python.
 
+🔗 [View Repository](https://github.com/sahandmostafaei/portfolio-optimization-python)
+
 ## Banking Analytics
 
 **Bank Customer Churn Prediction** — customer churn classification using banking data.
+
+🔗 [View Repository](https://github.com/sahandmostafaei/bank-customer-churn-prediction)
 
 ---
 
@@ -80,4 +95,4 @@ Credit-risk analysis using loan data, with a logistic-regression baseline for de
 
 # Contact
 
-sahandmostafaei8@gmail.com
+📧 sahandmostafaei8@gmail.com
